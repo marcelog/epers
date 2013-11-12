@@ -1,3 +1,9 @@
+# WARNING
+
+This repo is **deprecated**. Epers has now grown and is now called **sumo_db**, and can be found at the [Inaka github repository](https://github.com/inaka/sumo_db). This repo is kept for historical reasons.
+
+----
+
 # About
 This is a work in progress. There's also [an article](http://marcelog.github.com/articles/erlang_persistence_entities.html) about epers.
 
